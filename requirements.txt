@@ -1,4 +1,4 @@
 requests==2.28.1
 pandas==1.4.3
 numpy==1.23.2
-speech_recognition==3.10.0
+speech_recognition==2.2.0
